@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.icono {
+    display: none;
+
+}
+  
+.elmentolista:hover .icono {
+    display:inline-block;
+  }
