@@ -19,3 +19,8 @@
 .elmentolista:hover .icono {
     display:inline-block;
   }
+
+.casillaInput {
+    width: 100%;
+    border: none;
+}
